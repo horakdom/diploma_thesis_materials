@@ -7,9 +7,9 @@ Matematické modelování neizotermálního turbulentního proudění při obté
 Dominik Horák
 
 ## Instituce
-Fakulta jaderná a fyzikálně inženýrská ČVUT v Praze
+Katedra matematiky, Fakulta jaderná a fyzikálně inženýrská ČVUT v Praze
 
-Katedra matematiky
+
 
 ## Vedoucí
 Ing. Jakub Klinkovský, Ph.D. 
