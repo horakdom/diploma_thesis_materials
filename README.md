@@ -9,7 +9,8 @@ Matematické modelování neizotermálního turbulentního proudění při obté
 Dominik Horák
 
 ## Instituce
-Fakulta jaderná a fyzikálně inženýrská
+Fakulta jaderná a fyzikálně inženýrská ČVUT v Praze
+
 Katedra matematiky
 
 ## Vedoucí
