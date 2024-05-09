@@ -1,4 +1,5 @@
 ﻿# diploma_thesis_materials
 
 
-![Video 1](tke_ani_DP.avi)
+![Vizualizace turbulentní kinetické energie](tke_ani_DP.gif)
+
