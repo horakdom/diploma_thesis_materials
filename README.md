@@ -16,6 +16,6 @@ Ing. Jakub Klinkovský, Ph.D.
 
 # Materiály:
 
-## Vizualizace turbulentní kinetické energie na mřížce o rozměrech 192x96x48:
+## Vizualizace turbulentní kinetické energie na mřížce o rozměrech $192 \times 96 \times 48$:
 https://github.com/horakdom/diploma_thesis_materials/assets/130798637/32ab515a-1f46-4f31-9176-232980cd3876
 
